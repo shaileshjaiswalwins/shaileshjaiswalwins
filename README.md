@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎤 I’m currently working on<br>The mission of my life is to put India on the global map of AI and we are doing this through my work.<br><br>Currently dabbling with Speech-to-Speech models, learning system architecture, LLM behaviour, enterprise AI deployments. 
+🎤 I’m currently working on<br>The mission of my life is to put India on the global map of AI and we are doing this through my work.<br><br>Currently dabbling with Speech-to-Speech models, learning system architecture, LLM behaviour, enterprise AI deployments, Program Management, People Management, System, Digital Transformation, Agile Development, sprint management, executive communication and stakeholder management.  
 
 
 ## 🌐 Socials:
