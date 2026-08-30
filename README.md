@@ -50,24 +50,3 @@ On a mission to build impactful AI systems and establish high-performance techno
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-# GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=shaileshlia&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /><br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=shaileshlia&theme=tokyonight&hide_border=true" alt="GitHub Streak" /><br/><br/>
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=shaileshlia&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shaileshlia&theme=tokyonight&no-frame=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shaileshlia&style=flat-square&color=0077B5" alt="Profile Views" />
-</p>
